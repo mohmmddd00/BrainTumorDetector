@@ -17,3 +17,5 @@ Framework: PyTorch
 Imaging: Torchvision, PIL, Matplotlib
 
 Data Handling: NumPy
+
+Dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
